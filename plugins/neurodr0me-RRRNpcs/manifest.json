@@ -1,0 +1,7 @@
+{
+    "name": "RRRNpcs",
+    "version_number": "3.0.0",
+    "website_url": "",
+    "description": "Adds non-player humans to the game, with custom humans via JSON config.",
+    "dependencies": ["neurodr0me-RRRCore-3.0.0"]
+}

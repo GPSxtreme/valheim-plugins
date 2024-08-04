@@ -1,0 +1,7 @@
+{
+    "name": "RRRCore",
+    "version_number": "3.1.5",
+    "website_url": "",
+    "description": "Core library used by my other mods.",
+    "dependencies": []
+}

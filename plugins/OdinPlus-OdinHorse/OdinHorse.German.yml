@@ -1,0 +1,85 @@
+# Creatures
+## Nameplates for Creatures
+
+horse_odin: "Pferd"
+horse_offspring: "Fohlen"
+
+# Materials
+## Components, miscs and materials
+
+horse_hide: "Pferdehaut"
+horse_hide_desc: "Vor dem Pferd verstecken"
+
+trophy_horse: "Pferdetrophäe"
+trophy_horse_desc: "Trophäe von der Pferdejagd"
+
+# Items
+## Item names and descriptions
+
+item_horse_saddle: "Pferde Sattel"
+item_horse_saddle_desc: "Sie benötigen diesen Sattel zum Aufsitzen eines gezähmten Pferdes"
+
+horse_saddle: "Pferde Sattel"
+horse_saddle_desc: "Sie benötigen diesen Sattel zum Aufsitzen eines gezähmten Pferdes"
+
+horsesaddle_onhorse: "Sattel"
+
+horse_helmet: "Pferdetrophäenhelm"
+horse_helmet_desc: "Trophäenhelm aus Pferdekopf-Trophäe gefertigt"
+
+horse_cape: "Pferdeumhang"
+horse_cape_desc: "Umhang aus Pferdeleder"
+
+horseaker: "Pferdemacher"
+horseaker_desc: "Zweihandstreitaxt mit pferdekopfförmigem Eisenkopf"
+
+ArmorHorseClothHelmet_T1: "Skogarmadr-Kapuze"
+ArmorHorseClothHelmet_T1_desc: "Weiches, aber dickes Material aus Pferdeleder, ideal für Jäger"
+
+ArmorHorseClothChest_T1: "Skogarmadr-Truhe"
+ArmorHorseClothChest_T1_desc: "Weiches, aber dickes Material aus Pferdeleder, ideal für Jäger"
+
+ArmorHorseClothLegs_T1: "Skogarmadr-Beine"
+ArmorHorseClothLegs_T1_desc: "Weiches, aber dickes Material aus Pferdeleder, ideal für Jäger"
+
+ArmorHorseClothHelmet_T2: "Drapmadr-Maske"
+ArmorHorseClothHelmet_T2_desc: "Weiches, aber dickes Material aus Pferdehaut, verbessert mit Lederresten und festen raffinierten Erzen"
+
+ArmorHorseClothChest_T2: "Drapmadr-Truhe"
+ArmorHorseClothChest_T2_desc: "Weiches, aber dickes Material aus Pferdehaut, verbessert mit Lederresten und festen raffinierten Erzen"
+
+ArmorHorseClothLegs_T2: "Drapmadr-Beine"
+ArmorHorseClothLegs_T2_desc: "Weiches, aber dickes Material aus Pferdehaut, verbessert mit Lederresten und festen raffinierten Erzen"
+
+horseset_t1: "Skogarmadr-Effekt"
+horseset_t1_desc: "Skogarmadr war ein legendärer Jäger, der im Wald lebte, Tiere jagte und Diebe fernhielt. Sie sagten, er sei der Sohn des Waldgottes Skogar."
+
+horseset_t2: "Drapmadr-Effekt"
+horseset_t2_desc: "Drapmadr war ein bösartiger Mörder, dessen Ziel es war, aus irgendeinem Grund zu töten. Er wurde von Loki als rücksichtslos, skrupellos und gesegnet beschrieben."
+
+# Foods
+## Consumables like meats and soups
+
+horse_meat: "Pferdefleisch"
+horse_meat_desc: "Fleisch vom Pferd"
+
+horse_skewer: "Shaslik"
+horse_skewer_desc: "Pferdespieß mit einigen leckeren Zusätzen"
+
+horse_soup: "Dicke Suppe"
+horse_soup_desc: "Suppe aus Pferdefleisch mit speziellen Zutaten"
+
+horse_sticks: "Dark Frankfurter"
+horse_sticks_desc: "Würste aus Pferdefleisch"
+
+# Pieces
+## Buildable components
+
+pin_cart: "Pferdewagen"
+horse_cart: "Pferdewagen"
+
+horse_rug: "Pferdefelldecke"
+horse_rug_desc: "Teppich aus Pferdeleder"
+
+horse_chair: "Pferd"
+horse_chair_desc: "Lustiger Stuhl"
