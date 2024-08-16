@@ -11,6 +11,8 @@ Use the pier crane, fishing net, fish stand, totem poles, etc... to decorate you
 Use the Hercule Fishing Boat to fish, when sailing this boat at rowing speed, fish will start to appear in the front basket of the boat</br>
 No time to fish? When building the fishing dock fish will start to look like they are inside a box.</br>
 Are the winds not helping you? Wear the Wind Belt and the winds will always blow in your favor.</br>
+`By pressing the LeftShift + O key combination, all tamed animals that are within a 20 meter radius of the player will be transported to the same place where the player is, this key combination is great for you to be able to board and disembark your animals on ships from OdinShipPlus.`
+
 
 # PLUS VERSION (For Donors) - Please READ
 
@@ -192,8 +194,9 @@ https://sketchfab.com/OpusPoly and https://www.artstation.com/albertofoglia
 
 # Latest ChangeLog
 
-	v0.5.5
-	- Fixed error when adding trophy to the Taurus WarShip Ballista.
+	v0.5.6
+	- Added Animal Cargo Ship.
+	- Added LeftShift + O key combination for boarding tamed animals.
 	
 <details>
 <summary><b>Previous ChangeLog</b> (<i>click to expand</i>)</summary>
@@ -333,6 +336,9 @@ https://sketchfab.com/OpusPoly and https://www.artstation.com/albertofoglia
 	v0.5.4
 	- Added Taurus WarShip.
 	- Fixed other minor bugs.
+	
+	v0.5.5
+	- Fixed error when adding trophy to the Taurus WarShip Ballista.
 </details>
 
 
