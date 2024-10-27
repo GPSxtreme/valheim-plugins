@@ -95,6 +95,12 @@ Did you like my Mods? If you want to support me click on the image link below:</
 </details>
 
 <details>
+<summary><b>Cargo Animal Ship</b> (<i>click to expand</i>)</summary>
+<br/>
+<p align="center"><img src="https://i.ibb.co/G7QQgjv/Cargo-Animal-Ship.jpg"></p>
+</details>
+
+<details>
 <summary><b>Little Boat</b> (<i>click to expand</i>)</summary>
 <br/>
 <p align="center"><img src="https://i.ibb.co/Jky5mk3/Little-Boat.jpg"></p>
@@ -194,9 +200,9 @@ https://sketchfab.com/OpusPoly and https://www.artstation.com/albertofoglia
 
 # Latest ChangeLog
 
-	v0.5.6
-	- Added Animal Cargo Ship.
-	- Added LeftShift + O key combination for boarding tamed animals.
+	v0.5.8
+	- Added Vulkan support.
+	- HerculeShip is no longer a fishing boat
 	
 <details>
 <summary><b>Previous ChangeLog</b> (<i>click to expand</i>)</summary>
@@ -339,6 +345,12 @@ https://sketchfab.com/OpusPoly and https://www.artstation.com/albertofoglia
 	
 	v0.5.5
 	- Fixed error when adding trophy to the Taurus WarShip Ballista.
+	
+	v0.5.6
+	- Added LeftShift + O key combination for boarding tamed animals.
+	
+	v0.5.7
+	- Added Animal Cargo Ship.
 </details>
 
 

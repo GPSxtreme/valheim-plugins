@@ -176,3 +176,6 @@ Updated internal references.
 
 #Version 1.0.26
 Added Ashlands Food Item Barrels/Baskets
+
+#Version 1.0.27
+Fixed missing sfx reported via discord.

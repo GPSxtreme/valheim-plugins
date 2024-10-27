@@ -1,5 +1,20 @@
 # Changelog
 
+## Version 2.21.1
+* Fixed changing config values in the main menu resulted in an error
+
+## Version 2.21.0
+* Added DungeonManager, CustomRoom and RoomConfig for custom dungeons (thx probablykory & warp)
+* Added GameVersions utility to check for specific game versions
+* Added ConfigManagerUtils for soft access to common ConfigurationManager functionality
+* Added PieceManager.AddPieceCategory(string name) + RemovePieceCategory
+* Deprecated PieceManager.AddPieceCategory(string table, string name) + RemovePieceCategory, use the new overloads
+* Changed the version check of Jotunn to require the exact same version, if installed on both server and client
+* Fixed AdminOnly configs were not locked if the server doesn't load Jotunn
+* Fixed SynchronizationManager.PlayerIsAdmin was always true if the server doesn't load Jotunn
+* Fixed parsing of mod version data for connection compatibility with only a major.minor part
+* Fixed excessive debug logging in the SynchronizationManager
+
 ## Version 2.20.3
 * Fixed explicit `AdminOnly = false` config entries being locked for editing. Introduced in 2.20.2, `AdminOnly = true` was not affected
 * Fixed performance when searching for config entries to sync in large config files
