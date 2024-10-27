@@ -277,3 +277,324 @@
 
 [Info   : Unity Log] 10/27/2024 14:57:23: PlayFab local entity ID is 83E8AD0F02E50AA
 
+[Info   : Unity Log] 10/27/2024 15:03:56: show character selection
+
+[Info   : Unity Log] 10/27/2024 15:03:57: OnCharacterStart
+
+[Info   : Unity Log] 10/27/2024 15:04:04: Button pressed Start  frame:23009
+
+[Info   : Unity Log] 10/27/2024 15:04:05: Loading main scene
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Audioman already exist, destroying self
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Steam initialized, persona:GPSxtreme
+
+[Info   : Unity Log] 10/27/2024 15:04:06: PlayFab custom ID set to "Steam_76561198414638701"
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Using default prefs
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Loading player profile bigdaddy
+
+[Info   : Unity Log] 10/27/2024 15:04:06: isModded: True
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Zonesystem Awake 23086
+
+[Info   : Unity Log] 10/27/2024 15:04:06: DungeonDB Awake 23086
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Steam initialized, persona:GPSxtreme
+
+[Info   : Unity Log] 10/27/2024 15:04:06: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinsFoodBarrels ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'gravebear.odinsfoodbarrels PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'MarketplaceAndServerNPCs ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.OdinShipPlus ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.SeaAnimals ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.SeaAnimals ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'marlthon.SeaAnimals CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Foraging ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.mining ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'org.bepinex.plugins.packhorse SkillManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'OdinHorse ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse PieceManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'Raelaziel.OdinHorse CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 396 custom prefabs to the ZNetScene
+[Info   : Unity Log] [CustomSlotCreator] Created quiver slot for LeatherQuiver.
+[Info   :Valharvest.Scripts.ConsumableItemExtractor] Extracting consumable items...
+[Info   : Unity Log] 10/27/2024 15:04:08: Checking for installed DLCs
+
+[Info   : Unity Log] 10/27/2024 15:04:08: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.ItemManager] Adding 96 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 78 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 13 custom item conversions
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_LeatherQuiver
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_ArrowWoodAnywhere
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FireArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_PoisonArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_SilverArrowTransform
+[Info   : Unity Log] [PrefabCreator] Added recipe: Recipe_FrostArrowTransform
+[Info   :Jotunn.Managers.PieceManager] Adding 260 custom pieces to the PieceTables
+[Info   :SeedTotem.SeedTotemPrefabConfig] Moving Seed Totem to Hammer
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   :AuthoritativeConfig_mkz.itemdrawers] Authoritative Config Registered -> AuthoritativeConfig_mkz.itemdrawers
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   : Unity Log] 10/27/2024 15:04:13: Zonesystem Start 23086
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Added 1 locations, 0 vegetations, 2 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from main
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Added 4 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from main
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Added 24 locations, 33 vegetations, 8 environments, 2 biome env-setups, 2 clutter  from main
+
+[Info   :Jotunn.Managers.ZoneManager] Injecting 16 custom vegetation
+[Info   : Unity Log] 10/27/2024 15:04:13: DungeonDB Start 23086
+
+[Info   : Unity Log] 10/27/2024 15:04:13: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 10/27/2024 15:04:13: ZNET START
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Load world: gurramBase (gurramBase)
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Loading 186419 zdos, my sessionID: -239990844, data version: 34
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Loading in ZDOs
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Adding to Dictionary
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Adding to Sectors
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Connecting Portals, Spawners & ZSyncTransforms
+
+[Info   : Unity Log] ConnectPortals => Connected 3 portals.
+[Info   : Unity Log] ConnectSpawners => Connected 27 spawners and 299 'done' spawners.
+[Info   : Unity Log] 10/27/2024 15:04:13: Loaded 11255 locations
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Unloading unused assets
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Registering lobby
+
+[Info   : Unity Log] 10/27/2024 15:04:13: New session server "gurramBase" that has join code , now 1 player(s)
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Register PlayFab server "gurramBase"
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Server 'gurramBase' begin PlayFab create and join network for server 
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Semaphore type: SemaphoreSlim
+
+[Message:Better Networking] PlayFab: Added socket [null]
+[Info   : Unity Log] 10/27/2024 15:04:13: Opened PlayFab server
+
+[10/27/2024 3:04:13 PM] [kg.Marketplace] Searching User ID...
+[10/27/2024 3:04:13 PM] [kg.Marketplace] User ID found: Steam_76561198414638701
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 10/27/2024 15:04:13: Starting respawn
+
+[Info   : Unity Log] 10/27/2024 15:04:13: Loading minimap textures done [337ms]
+
+[Info   : Unity Log] 10/27/2024 15:04:14: Minimap: unpacking compressed mapData 11262 => 8390990 bytes
+
+[Info   : Unity Log] 10/27/2024 15:04:14: tip:$loadscreen_tip24
+
+[Info   : Unity Log] 10/27/2024 15:04:14: Lobby was created k_EResultOK  109775245073283250  error:False
+
+[Info   : Unity Log] 10/27/2024 15:04:14: Got requested lobby data
+
+[Info   : Unity Log] 10/27/2024 15:04:14: Got requested lobby data
+
+[Info   : Unity Log] 10/27/2024 15:04:17: Joined PlayFab Party network with ID "1e86bbe8-65a4-4e92-b457-897cb9f36d82|AwD3/sVrIu4Yr474iES2qZCRIYN7EVNvdXRoZWFzdEFzaWEAAAAAAAAAl3mpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZk1kbnM4MWU1LWE1MWMxNGY2LTZhZjYtNDIzOC1hMDdjLTEyZDc1NzRjMWE3MS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ=="
+
+[Info   : Unity Log] This is the serverIP used to register the server: 
+[Info   : Unity Log] 10/27/2024 15:04:18: Created PlayFab lobby with ID "2204b943-589d-43e4-a65e-38833e482bbf.r-20230509", ConnectionString "cv2:2204b943-589d-43e4-a65e-38833e482bbf.r-20230509|451107|kv1:ZC36+KF4u9aNlJzQvLbTT2o8XZGttkmpfDz5m0+EnMs=" and owned by "83E8AD0F02E50AA"
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Session "gurramBase" registered with join code 877353
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Retry join-code check 99
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Dungeon loaded with 27 rooms in 2 ms.
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Dungeon loaded with 22 rooms in 0.5051 ms.
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Dungeon loaded with 23 rooms in 1.284 ms.
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Spawning dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Spawning dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:18: Spawning dungeon
+
+[Info   : Unity Log] 10/27/2024 15:04:19: Session "gurramBase" with join code 877353 is active with 1 player(s)
+
+[Info   : Unity Log] 10/27/2024 15:04:22: Spawned after 8.019994
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 10/27/2024 15:04:22: Skipping unloading unused assets
+
+[Info   : Unity Log] 10/27/2024 15:04:22: Minimap: Adding unique location (-66.08, 34.08, 1.84)
+
+[Info   : Unity Log] 10/27/2024 15:04:23: Update PlayFab entity token
+
+[Info   : Unity Log] 10/27/2024 15:04:24: Starting music blackforest
+
+[Info   : Unity Log] 10/27/2024 15:04:35: Setting selected recipe 0
+
+[Info   : Unity Log] 10/27/2024 15:04:36: PlayFab listen socket child connected to remote player 935F475A8DD6F840
+
+[Message:Better Networking] PlayFab: Added socket [null]
+[Info   : Unity Log] 10/27/2024 15:04:36: Player joined server "gurramBase" that has join code 877353, now 2 player(s)
+
+[Info   : Unity Log] 10/27/2024 15:04:36: ZRpc timeout set to 90s 
+
+[Info   : Unity Log] Sending PlantEverything version 1.18.1 and minimum version 1.18.1 to the client.
+[Info   : Unity Log] Sending OdinsFoodBarrels version 1.0.27 and minimum version 1.0.27 to the client.
+[Info   : Unity Log] Sending gravebear.odinsfoodbarrels PieceManager version 1.0.27 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending MarketplaceAndServerNPCs version 9.3.3 and minimum version 9.3.3 to the client.
+[Info   : Unity Log] Sending OdinShipPlus version 0.5.8 and minimum version 0.5.8 to the client.
+[Info   : Unity Log] Sending marlthon.OdinShipPlus PieceManager version 0.5.8 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending marlthon.OdinShipPlus ItemManager version 0.5.8 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending SeaAnimals version 0.2.6 and minimum version 0.2.6 to the client.
+[Info   : Unity Log] Sending marlthon.SeaAnimals ItemManager version 0.2.6 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending marlthon.SeaAnimals CreatureManager version 0.2.6 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending Foraging version 1.0.9 and minimum version 1.0.9 to the client.
+[Info   : Unity Log] Sending Mining version 1.1.5 and minimum version 1.1.5 to the client.
+[Info   : Unity Log] Sending org.bepinex.plugins.packhorse SkillManager version 1.0.3 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending OdinHorse version 1.2.6 and minimum version 1.2.6 to the client.
+[Info   : Unity Log] Sending Raelaziel.OdinHorse ItemManager version 1.2.6 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending Raelaziel.OdinHorse PieceManager version 1.2.6 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending Raelaziel.OdinHorse CreatureManager version 1.2.6 and minimum version 0.0.0 to the client.
+[Info   : Unity Log] Sending RRRCore version 3.1.5 and minimum version 3.1.5 to the client.
+[Message:Better Networking] Compression: [] connected
+[Error  : Unity Log] NullReferenceException: Object reference not set to an instance of an object
+Stack trace:
+ZNet.ListContainsId (SyncedList list, System.String id) (at <1f17a254067e41d0b59746dec98ad607>:0)
+PieceManager.RegisterClientRPCPatch.Postfix (ZNet __instance, ZNetPeer peer) (at <41d462e504084d0b9a461486f09fd136>:0)
+(wrapper dynamic-method) ZNet.DMD<ZNet::OnNewConnection>(ZNet,ZNetPeer)
+ZNet.CheckForIncommingServerConnections () (at <1f17a254067e41d0b59746dec98ad607>:0)
+ZNet.Update () (at <1f17a254067e41d0b59746dec98ad607>:0)
+
+[Info   : Unity Log] 10/27/2024 15:04:36: Muted PlayFab remote player 935F475A8DD6F840
+
+[Info   : Unity Log] 10/27/2024 15:04:36: PlayFab socket with remote ID playfab/935F475A8DD6F840 received local Platform ID Steam_76561199026824175
+
+[Info   : Unity Log] 10/27/2024 15:04:36: Got handshake from client playfab/935F475A8DD6F840
+
+[Warning:Jotunn.Utils.ModCompatibility] Jötunn is not installed on the client. Server has mandatory mods, cancelling connection. Mods that need to be installed on the client:
+MissingPieces
+Valharvest
+MultiUserChest
+BoneAppetit
+Seed Totem
+OdinArchitect
+[Info   :Jotunn.Managers.SynchronizationManager] Peer has disconnected. Skipping initial data send.
+[Info   : Unity Log] 10/27/2024 15:04:42: RPC_Disconnect
+
+[Message:Better Networking] Compression: [Steam_76561199026824175] disconnected
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CONNECTED
+[Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+[Message:Better Networking] PlayFab: Removed socket
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Message:Better Networking] PlayFab: Removed socket
+[Warning:Better Networking] Compression: Tried to remove non-existent peer: [null]
+[Info   : Unity Log] 10/27/2024 15:04:42: Player connection lost server "gurramBase" that has join code 877353, now 1 player(s)
+
+[Info   : Unity Log] 10/27/2024 15:04:51: Stopped music blackforest at 1175059
+
+[Info   : Unity Log] 10/27/2024 15:04:51: Starting music blackforest
+
+[Info   : Unity Log] 10/27/2024 15:04:51: Resumed music blackforest at 1175059
+
+[Info   : Unity Log] 10/27/2024 15:04:51: Setting selected recipe 0
+
+[Info   : Unity Log] 10/27/2024 15:05:11: Loading dungeon
+
+[Info   : Unity Log] 10/27/2024 15:05:11: Dungeon loaded with 23 rooms in 0 ms.
+
+[Info   : Unity Log] 10/27/2024 15:05:11: Loading room prefabs asynchronously
+
+[Info   : Unity Log] 10/27/2024 15:05:11: Spawning dungeon
+
+[Info   : Unity Log] 10/27/2024 15:05:31: Setting selected recipe 0
+
+[Info   : Unity Log] 10/27/2024 15:06:17: Activating default element Continue
+
+[Info   : Unity Log] 10/27/2024 15:06:17: Activating default element Continue
+
+[Info   : Unity Log] 10/27/2024 15:06:18: Activating default element Continue
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 10/27/2024 15:06:19: Available space to current user: 139347750912. Saving is blocked if below: 17321746 bytes. Warnings are given if below: 34643492
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 10/27/2024 15:06:19: Game - OnApplicationQuit
+
+[Info   : Unity Log] Am I Host? True
+[Info   : Unity Log] 10/27/2024 15:06:19: Available space to current user: 139347750912. Saving is blocked if below: 17321746 bytes. Warnings are given if below: 34643492
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Shutting down
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Minimap: compressed mapData 8391032 => 11284 bytes
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Cloud Save: 42674 bytes. /characters/bigdaddy.fch.new
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Steam writing file chunks 1 / 1, (42674 bytes)
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Steam Cloud Move: 44485 bytes. /characters/bigdaddy.fch -> /characters/bigdaddy.fch.old
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Steam writing file chunks 1 / 1, (44485 bytes)
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Steam Cloud Move: 42674 bytes. /characters/bigdaddy.fch.new -> /characters/bigdaddy.fch
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Steam writing file chunks 1 / 1, (42674 bytes)
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Considering autobackup. World time: 122.86, short time: 7200, long time: 43200, backup count: 8
+
+[Info   : Unity Log] 10/27/2024 15:06:19: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 10/27/2024 15:06:19: ZNet Shutdown
+
+[Info   : Unity Log] 10/27/2024 15:06:19: PrepareSave: clone done in 32ms
+
+[Info   : Unity Log] 10/27/2024 15:06:19: PrepareSave: ZDOExtraData.PrepareSave done in 41 ms
+
+[Info   : Unity Log] 10/27/2024 15:06:20: Unloading unused assets
+
+[Info   : Unity Log] 10/27/2024 15:06:20: Sending disconnect msg
+
+[Info   : Unity Log] ZPlayFabMatchmaking::UnregisterServer - unregistering server now. State: Active
+[Info   : Unity Log] 10/27/2024 15:06:20: Unregister PlayFab server "gurramBase" and leaving network "1e86bbe8-65a4-4e92-b457-897cb9f36d82|AwD3/sVrIu4Yr474iES2qZCRIYN7EVNvdXRoZWFzdEFzaWEAAAAAAAAAl3mpmXpd/Ohe5QQcQyDL8X43thImISbKGj4Y0JB+V5wnZk1kbnM4MWU1LWE1MWMxNGY2LTZhZjYtNDIzOC1hMDdjLTEyZDc1NzRjMWE3MS5zb3V0aGVhc3Rhc2lhLmNsb3VkYXBwLmF6dXJlLmNvbQ=="
+
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: LISTEN
+[Info   : Unity Log] ZPlayFabSocket::Dispose. leave lobby. LobbyId: 
+[Message:Better Networking] PlayFab: Removed socket
+[Info   : Unity Log] ZPlayFabSocket::Dispose. State: CLOSED
+[Message:Better Networking] PlayFab: Removed socket
+[Info   : Unity Log] 10/27/2024 15:06:20: Stopping build thread
+
+[Info   : Unity Log] 10/27/2024 15:06:22: Steam manager on destroy
+
+[Info   :Valharvest.Main] Valharvest: OnDestroy
+[Info   : Unity Log] 10/27/2024 15:06:23: ZNet OnDestroy
+
+[Info   : Unity Log] 10/27/2024 15:06:23: Net scene destroyed
+
